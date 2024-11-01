@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Package Test Suite" tests="1" assertions="1" failures="0" errors="0" time="0.001268">
+    <testsuite name="MaterialPHP\MahlamusaMaterialTest" file="/home/mahlamusa/Web/Github Projects/material-php/tests/MahlamusaMaterialTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.001268">
+      <testcase name="testTrueIsTrue" class="MaterialPHP\MahlamusaMaterialTest" file="/home/mahlamusa/Web/Github Projects/material-php/tests/MahlamusaMaterialTest.php" line="21" assertions="1" time="0.001268"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
